@@ -1,0 +1,5 @@
+platform:ios,'8.0'
+target 'DataPersistence' do
+pod 'FMDB'
+pod 'MJExtension'
+end
